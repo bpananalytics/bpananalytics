@@ -13,7 +13,7 @@ As a business analyst, I excel in transforming intricate datasets into strategic
 
 ---
 
-### [Identifying Critical Bank Ratios for Bank Failures](https://github.com/bpananalytics/bpananalytics/blob/main/Critical_Insights_Identifying_Crucial_Financial_Ratios_for_Predicting_Bank_Failures.ipynb)
+### [Identifying Critical Financial Ratios for Bank Failures](https://github.com/bpananalytics/bpananalytics/blob/main/Critical_Insights_Identifying_Crucial_Financial_Ratios_for_Predicting_Bank_Failures.ipynb)
 
 This project explores crucial financial ratios to predict bank failures, leveraging statistical methods like t-tests. Key ratios such as R18 (INCDEP/DEBTS) and R21 (ASSETS/DEBTS) show significant correlations with bank distress. By analyzing datasets of healthy and failed banks, the study uncovers distinct financial patterns. These insights equip stakeholders with actionable data to enhance risk management and bolster financial stability in the banking sector.
 
