@@ -4,7 +4,7 @@ Hi 👋 My name is BRIAN PAN
 Businesss Analyst, Data Specialist
 ----------------------------------
 
-As a data analytics, I excel in transforming intricate datasets into strategic insights that drive organizational success. My background in Business Analytics includes statistical analysis, programming languages such as R, SQL, and Python, and extensive use of tool including Tableau and SAP. My approach combines analytical rigor with a keen understanding of business objectives, enabling me to deliver tailored solutions that optimize operations, enhance customer engagement, and drive measurable outcomes. I have a proven track record of leveraging predictive modeling and agile methodologies to guide businesses through complex data challenges, ensuring they make informed decisions that align with their strategic goals.
+As a business analyst, I excel in transforming intricate datasets into strategic insights that drive organizational success. My background in Business Analytics includes statistical analysis, programming languages such as R, SQL, and Python, and extensive use of tool including Tableau and SAP. My approach combines analytical rigor with a keen understanding of business objectives, enabling me to deliver tailored solutions that optimize operations, enhance customer engagement, and drive measurable outcomes. I have a proven track record of leveraging predictive modeling and agile methodologies to guide businesses through complex data challenges, ensuring they make informed decisions that align with their strategic goals.
 
 * 🌍  I'm based in Oakland, California
 * ✉️  You can contact me at [bpan.analytics@gmail.com](mailto:bpan.analytics@gmail.com)
