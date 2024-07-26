@@ -20,7 +20,7 @@ This project explores crucial financial ratios to predict bank failures, leverag
 ---
 ### [Price_Over_Income_Unveiling_the_Key_Driver_of_Cigarette_Consumption](https://github.com/bpananalytics/bpananalytics/blob/main/Price_Over_Income_Unveiling_the_Key_Driver_of_Cigarette_Consumption.ipynb)
 
-The study highlights that cigarette prices play a crucial role in influencing sales, with higher prices leading to reduced consumption. While income and taxes show less clear effects, the evidence supports price-based interventions as a key strategy for effective tobacco control.
+This study investigates the impact of income, cigarette taxes, and cigarette prices on cigarette sales. By examining these economic factors, the research aims to provide valuable insights for policymakers, manufacturers, and public health advocates. Understanding how these variables influence cigarette consumption can inform effective strategies for reducing smoking rates and improving public health, highlighting the potential role of economic measures in tobacco control.
 
 ### Skills
 
