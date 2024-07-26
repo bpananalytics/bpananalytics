@@ -18,7 +18,7 @@ As a business analyst, I excel in transforming intricate datasets into strategic
 This project explores crucial financial ratios to predict bank failures, leveraging statistical methods like t-tests. Key ratios such as R18 (INCDEP/DEBTS) and R21 (ASSETS/DEBTS) show significant correlations with bank distress. By analyzing datasets of healthy and failed banks, the study uncovers distinct financial patterns. These insights equip stakeholders with actionable data to enhance risk management and bolster financial stability in the banking sector.
 
 ---
-### [Price_Over_Income_Unveiling_the_Key_Driver_of_Cigarette_Consumption](https://github.com/bpananalytics/bpananalytics/blob/main/Price_Over_Income_Unveiling_the_Key_Driver_of_Cigarette_Consumption.ipynb)
+### [Price Over Income Unveilign Key Driver of Cigarette Consumption](https://github.com/bpananalytics/bpananalytics/blob/main/Price_Over_Income_Unveiling_the_Key_Driver_of_Cigarette_Consumption.ipynb)
 
 This study investigates the impact of income, cigarette taxes, and cigarette prices on cigarette sales. By examining these economic factors, the research aims to provide valuable insights for policymakers, manufacturers, and public health advocates. Understanding how these variables influence cigarette consumption can inform effective strategies for reducing smoking rates and improving public health, highlighting the potential role of economic measures in tobacco control.
 
