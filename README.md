@@ -21,6 +21,7 @@ This project explores crucial financial ratios to predict bank failures, leverag
 ### [Price Over Income Unveiling Key Driver of Cigarette Consumption](https://github.com/bpananalytics/bpananalytics/blob/main/Price_Over_Income_Unveiling_the_Key_Driver_of_Cigarette_Consumption.ipynb)
 
 This study investigates the impact of income, cigarette taxes, and cigarette prices on cigarette sales. By examining these economic factors, the research aims to provide valuable insights for policymakers, manufacturers, and public health advocates. Understanding how these variables influence cigarette consumption can inform effective strategies for reducing smoking rates and improving public health, highlighting the potential role of economic measures in tobacco control.
+
 ---
 ### [Muesli Analysis](https://github.com/bpananalytics/bpananalytics/blob/main/Muesli%20Analysis.docx)
 
