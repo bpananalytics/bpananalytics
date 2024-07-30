@@ -23,7 +23,7 @@ This project explores crucial financial ratios to predict bank failures, leverag
 This study investigates the impact of income, cigarette taxes, and cigarette prices on cigarette sales. By examining these economic factors, the research aims to provide valuable insights for policymakers, manufacturers, and public health advocates. Understanding how these variables influence cigarette consumption can inform effective strategies for reducing smoking rates and improving public health, highlighting the potential role of economic measures in tobacco control.
 
 ---
-### [Muesli Analysis](https://github.com/bpananalytics/bpananalytics/blob/main/Muesli%20Analysis.docx)
+### [Strategic Insights and Operational Analytics for ERP Muesli Inc.: Fiscal Year 2024 Review](https://github.com/bpananalytics/bpananalytics/blob/main/Muesli%20Analysis.docx)
 
 An in-depth analysis on European cereal production involving a detailed review of financial statements, geographic consumption, marketing channels, and producation. The findings reveal that current assets are a leading indicator of cash flow issues, highlighting potential challenges in meeting sales targets. Additionally, geographic sales data indicates limited reach with the potential customer base, while supply-side metrics, such as manufacturing and transfer efficiency, show no production issues. These insights can serve as the foundation for the organization’s strategic execution in the 2024 fiscal year.
 
