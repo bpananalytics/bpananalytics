@@ -27,8 +27,9 @@ Designed and implemented a comprehensive music analytics system to predict song 
 ### [TikTok Video Analytics Using AWS SageMaker](https://github.com/bpananalytics/bpananalytics/blob/main/TikTok%20Analytics.ipynb)
 Designed a video analytics pipeline to extract actionable insights from short-form videos using AWS SageMaker and Python. The project focused on understanding viewer reactions and identifying content trends to optimize social media engagement strategies.
 
-### [Operational Strategy Analysis for Muesli Cereal](https://github.com/bpananalytics/bpananalytics/blob/main/Muesli%20Analysis.docx)
-Performed a cross-sectional root cause analysis (RCA) between cereal competitors looking into financial statements, sales, and operational costs. This project focuses on understanding market penetration, effective capital spending, and resource allocation. 
+### [Strategic Insights and Operational Analytics for ERP Muesli Inc.: Fiscal Year 2024 Review](https://github.com/bpananalytics/bpananalytics/blob/main/Muesli%20Analysis.docx)
+
+An in-depth analysis on European cereal production involving a detailed review of financial statements, geographic consumption, marketing channels, and production. The findings reveal that current assets are a leading indicator of cash flow issues, highlighting potential challenges in meeting sales targets. Additionally, geographic sales data indicates limited reach with the potential customer base, while supply-side metrics, such as manufacturing and transfer efficiency, show no production issues. These insights can serve as the foundation for the organization’s strategic execution in the 2024 fiscal year.
 
 ### [Identifying Critical Financial Ratios for Bank Failures](https://github.com/bpananalytics/bpananalytics/blob/main/Critical_Insights_Identifying_Crucial_Financial_Ratios_for_Predicting_Bank_Failures.ipynb)
 
@@ -40,9 +41,7 @@ This project explores crucial financial ratios to predict bank failures, leverag
 This study investigates the impact of income, cigarette taxes, and cigarette prices on cigarette sales. By examining these economic factors, the research aims to provide valuable insights for policymakers, manufacturers, and public health advocates. Understanding how these variables influence cigarette consumption can inform effective strategies for reducing smoking rates and improving public health, highlighting the potential role of economic measures in tobacco control.
 
 
-### [Strategic Insights and Operational Analytics for ERP Muesli Inc.: Fiscal Year 2024 Review](https://github.com/bpananalytics/bpananalytics/blob/main/Muesli%20Analysis.docx)
 
-An in-depth analysis on European cereal production involving a detailed review of financial statements, geographic consumption, marketing channels, and production. The findings reveal that current assets are a leading indicator of cash flow issues, highlighting potential challenges in meeting sales targets. Additionally, geographic sales data indicates limited reach with the potential customer base, while supply-side metrics, such as manufacturing and transfer efficiency, show no production issues. These insights can serve as the foundation for the organization’s strategic execution in the 2024 fiscal year.
 
 ### Skills
 
