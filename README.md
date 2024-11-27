@@ -21,6 +21,8 @@ Developed a robust fake news detection system by leveraging advanced text analyt
 Conducted a comprehensive analysis of media bias by scraping and analyzing textual data from liberal, conservative, and moderate media outlets to explore differences in political perspectives on key election topics. This project demonstrates expertise in web scraping, text cleaning, and natural language processing (NLP) for data-driven decision-making
 
 
+### [Predictive Music Analytics using Spotify](https://github.com/bpananalytics/bpananalytics/blob/main/Spotify%20Analysis/Report)
+Designed and implemented a comprehensive music analytics system to predict song popularity and analyze artistic trends using Spotify's API, natural language processing (NLP), and machine learning techniques.
 
 ### [Identifying Critical Financial Ratios for Bank Failures](https://github.com/bpananalytics/bpananalytics/blob/main/Critical_Insights_Identifying_Crucial_Financial_Ratios_for_Predicting_Bank_Failures.ipynb)
 
