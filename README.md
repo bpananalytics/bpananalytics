@@ -27,6 +27,8 @@ Designed and implemented a comprehensive music analytics system to predict song 
 ### [TikTok Video Analytics Using AWS SageMaker](https://github.com/bpananalytics/bpananalytics/blob/main/TikTok%20Analytics.ipynb)
 Designed a video analytics pipeline to extract actionable insights from short-form videos using AWS SageMaker and Python. The project focused on understanding viewer reactions and identifying content trends to optimize social media engagement strategies.
 
+### [Operational Strategy Analysis for Muesli Cereal](https://github.com/bpananalytics/bpananalytics/blob/main/Muesli%20Analysis.docx)
+Performed a cross-sectional root cause analysis (RCA) between cereal competitors looking into financial statements, sales, and operational costs. This project focuses on understanding market penetration, effective capital spending, and resource allocation. 
 
 ### [Identifying Critical Financial Ratios for Bank Failures](https://github.com/bpananalytics/bpananalytics/blob/main/Critical_Insights_Identifying_Crucial_Financial_Ratios_for_Predicting_Bank_Failures.ipynb)
 
