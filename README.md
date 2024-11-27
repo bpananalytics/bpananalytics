@@ -12,19 +12,19 @@ As a business analyst, I excel in transforming intricate datasets into strategic
 ### Projects
 
 ---
-### [Fake News Detection with Machine Learning and Text Analytics](https://github.com/bpananalytics/bpananalytics/blob/main/Fake%20News%20Analysis/Presentation)
+### [Fake News Detection with Machine Learning and Text Analytics](https://github.com/bpananalytics/bpananalytics/tree/main/Fake%20News%20Analysis)
 Developed a robust fake news detection system by leveraging advanced text analytics and machine learning models. This project highlights expertise in data scraping, preprocessing, and the application of classification algorithms to address a critical business challenge: identifying and classifying misinformation.
 
 
 
-### [News Media Bias Analysis](https://github.com/bpananalytics/bpananalytics/blob/main/News%20Bias%20Analysis/Presentation)
+### [News Media Bias Analysis](https://github.com/bpananalytics/bpananalytics/tree/main/News%20Bias%20Analysis)
 Conducted a comprehensive analysis of media bias by scraping and analyzing textual data from liberal, conservative, and moderate media outlets to explore differences in political perspectives on key election topics. This project demonstrates expertise in web scraping, text cleaning, and natural language processing (NLP) for data-driven decision-making
 
 
-### [Predictive Music Analytics using Spotify](https://github.com/bpananalytics/bpananalytics/blob/main/Spotify%20Analysis/Report)
+### [Predictive Music Analytics using Spotify](https://github.com/bpananalytics/bpananalytics/tree/main/Spotify%20Analysis)
 Designed and implemented a comprehensive music analytics system to predict song popularity and analyze artistic trends using Spotify's API, natural language processing (NLP), and machine learning techniques.
 
-### [TikTok Video Analytics Using AWS SageMaker](https://github.com/bpananalytics/bpananalytics/blob/main/HW2%20-%20Brian%20Pan.ipynb)
+### [TikTok Video Analytics Using AWS SageMaker](https://github.com/bpananalytics/bpananalytics/blob/main/TikTok%20Analytics.ipynb)
 Designed a video analytics pipeline to extract actionable insights from short-form videos using AWS SageMaker and Python. The project focused on understanding viewer reactions and identifying content trends to optimize social media engagement strategies.
 
 
