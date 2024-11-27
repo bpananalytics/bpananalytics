@@ -24,6 +24,10 @@ Conducted a comprehensive analysis of media bias by scraping and analyzing textu
 ### [Predictive Music Analytics using Spotify](https://github.com/bpananalytics/bpananalytics/blob/main/Spotify%20Analysis/Report)
 Designed and implemented a comprehensive music analytics system to predict song popularity and analyze artistic trends using Spotify's API, natural language processing (NLP), and machine learning techniques.
 
+### [TikTok Video Analytics Using AWS SageMaker](https://github.com/bpananalytics/bpananalytics/blob/main/HW2%20-%20Brian%20Pan.ipynb)
+Designed a video analytics pipeline to extract actionable insights from short-form videos using AWS SageMaker and Python. The project focused on understanding viewer reactions and identifying content trends to optimize social media engagement strategies.
+
+
 ### [Identifying Critical Financial Ratios for Bank Failures](https://github.com/bpananalytics/bpananalytics/blob/main/Critical_Insights_Identifying_Crucial_Financial_Ratios_for_Predicting_Bank_Failures.ipynb)
 
 This project explores crucial financial ratios to predict bank failures, leveraging statistical methods like t-tests. Key ratios such as R18 (INCDEP/DEBTS) and R21 (ASSETS/DEBTS) show significant correlations with bank distress. By analyzing datasets of healthy and failed banks, the study uncovers distinct financial patterns. These insights equip stakeholders with actionable data to enhance risk management and bolster financial stability in the banking sector.
