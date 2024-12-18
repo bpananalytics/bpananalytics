@@ -1,10 +1,10 @@
 BRIAN PAN
 ==========================
 
-Businesss Analyst, Data Specialist
+Businesss Analyst & Data Specialist
 ----------------------------------
 
-As a business analyst, I excel in transforming intricate datasets into strategic insights that drive organizational success. My background in Business Analytics includes statistical analysis, programming languages such as R, SQL, and Python, and extensive use of tool including Tableau and SAP. My approach combines analytical rigor with a keen understanding of business objectives, enabling me to deliver tailored solutions that optimize operations, enhance customer engagement, and drive measurable outcomes. I have a proven track record of leveraging predictive modeling and agile methodologies to guide businesses through complex data challenges, ensuring they make informed decisions that align with their strategic goals.
+I turn complex data into actionable insights to help businesses grow, improve operations, and engage customers effectively.
 
 * 🌍  I'm based in Oakland, California
 * ✉️  You can contact me at [bpan.analytics@gmail.com](mailto:bpan.analytics@gmail.com)
@@ -13,7 +13,7 @@ As a business analyst, I excel in transforming intricate datasets into strategic
 
 ---
 ### [Analysis on Reviews for 'Wicked' film](https://github.com/bpananalytics/bpananalytics/tree/main/Wicked%20Movie%20Review%20Analysis)
-A detailed analysis into the film's reception among video reviewers involving analysis of different transcription services using ngrams and topic modeling. Findings include sentiment analysis and use of clustering techniques to identify distinctions between film's positive and negative features as well as reviewer biases.
+Explored video reviews of the 'Wicked' film to understand audience reception. Used text analysis tools like n-grams and topic modeling to identify key themes and sentiments. Findings helped uncover trends in positive and negative feedback and reviewer biases."
 
 
 ### [Fake News Detection with Machine Learning and Text Analytics](https://github.com/bpananalytics/bpananalytics/tree/main/Fake%20News%20Analysis)
