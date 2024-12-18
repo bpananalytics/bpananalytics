@@ -12,9 +12,12 @@ As a business analyst, I excel in transforming intricate datasets into strategic
 ### Projects
 
 ---
+### [Analysis on Reviews for 'Wicked' film](https://github.com/bpananalytics/bpananalytics/tree/main/Wicked%20Movie%20Review%20Analysis)
+A detailed analysis into the film's reception among video reviewers involving analysis of different transcription services using ngrams and topic modeling. Findings include sentiment analysis and use of clustering techniques to identify distinctions between film's positive and negative features as well as reviewer biases.
+
+
 ### [Fake News Detection with Machine Learning and Text Analytics](https://github.com/bpananalytics/bpananalytics/tree/main/Fake%20News%20Analysis)
 Developed a robust fake news detection system by leveraging advanced text analytics and machine learning models. This project highlights expertise in data scraping, preprocessing, and the application of classification algorithms to address a critical business challenge: identifying and classifying misinformation.
-
 
 
 ### [News Media Bias Analysis](https://github.com/bpananalytics/bpananalytics/tree/main/News%20Bias%20Analysis)
