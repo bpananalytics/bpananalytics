@@ -13,36 +13,33 @@ I turn complex data into actionable insights to help businesses grow, improve op
 
 ---
 ### [Analysis on Reviews for 'Wicked' film](https://github.com/bpananalytics/bpananalytics/tree/main/Wicked%20Movie%20Review%20Analysis)
-Explored video reviews of the 'Wicked' film to understand audience reception. Used text analysis tools like n-grams and topic modeling to identify key themes and sentiments. Findings helped uncover trends in positive and negative feedback and reviewer biases."
+Explored video reviews of the 'Wicked' film to understand audience reception. Used text analysis tools like n-grams and topic modeling to identify key themes and sentiments. Findings helped uncover trends in positive and negative feedback and reviewer biases.
 
 
 ### [Fake News Detection with Machine Learning and Text Analytics](https://github.com/bpananalytics/bpananalytics/tree/main/Fake%20News%20Analysis)
-Developed a robust fake news detection system by leveraging advanced text analytics and machine learning models. This project highlights expertise in data scraping, preprocessing, and the application of classification algorithms to address a critical business challenge: identifying and classifying misinformation.
+Built a system to detect fake news by analyzing patterns in text using machine learning. Key outcomes include identifying misinformation effectively and demonstrating expertise in text processing and classification techniques.
 
-
-### [News Media Bias Analysis](https://github.com/bpananalytics/bpananalytics/tree/main/News%20Bias%20Analysis)
-Conducted a comprehensive analysis of media bias by scraping and analyzing textual data from liberal, conservative, and moderate media outlets to explore differences in political perspectives on key election topics. This project demonstrates expertise in web scraping, text cleaning, and natural language processing (NLP) for data-driven decision-making
+### [Analysis on Media Bias for 2024 Presidential Election](https://github.com/bpananalytics/bpananalytics/tree/main/News%20Bias%20Analysis)
+Conducted an analysis of political bias in media by examining articles from several major news outlets. Highlighted how liberal, conservative, and moderate sources distinctly framed key election topics, providing insights into media trends and public perception.
 
 
 ### [Predictive Music Analytics using Spotify](https://github.com/bpananalytics/bpananalytics/tree/main/Spotify%20Analysis)
-Designed and implemented a comprehensive music analytics system to predict song popularity and analyze artistic trends using Spotify's API, natural language processing (NLP), and machine learning techniques.
+Analyzed Spotify data to predict song popularity and artistic trends using machine learning. Key findings involve acoustic and marketing insights for artists and marketers in the music industry.
 
 ### [TikTok Video Analytics Using AWS SageMaker](https://github.com/bpananalytics/bpananalytics/blob/main/TikTok%20Analytics.ipynb)
-Designed a video analytics pipeline to extract actionable insights from short-form videos using AWS SageMaker and Python. The project focused on understanding viewer reactions and identifying content trends to optimize social media engagement strategies.
+Extract insights from TikTok videos, focusing on viewer reactions and content trends. Focused on finding insights that help optimize social media engagement strategies.
 
 ### [Strategic Insights and Operational Analytics for ERP Muesli Inc.: Fiscal Year 2024 Review](https://github.com/bpananalytics/bpananalytics/blob/main/Muesli%20Analysis.docx)
 
-An in-depth analysis on European cereal production involving a detailed review of financial statements, geographic consumption, marketing channels, and production. The findings reveal that current assets are a leading indicator of cash flow issues, highlighting potential challenges in meeting sales targets. Additionally, geographic sales data indicates limited reach with the potential customer base, while supply-side metrics, such as manufacturing and transfer efficiency, show no production issues. These insights can serve as the foundation for the organization’s strategic execution in the 2024 fiscal year.
+Analyzed European cereal production data to identify financial risks and market opportunities. Discovered cash flow issues and geographic sales limitations, providing strategic recommendations for growth in 2024.
 
 ### [Identifying Critical Financial Ratios for Bank Failures](https://github.com/bpananalytics/bpananalytics/blob/main/Critical_Insights_Identifying_Crucial_Financial_Ratios_for_Predicting_Bank_Failures.ipynb)
 
-This project explores crucial financial ratios to predict bank failures, leveraging statistical methods like t-tests. Key ratios such as R18 (INCDEP/DEBTS) and R21 (ASSETS/DEBTS) show significant correlations with bank distress. By analyzing datasets of healthy and failed banks, the study uncovers distinct financial patterns. These insights equip stakeholders with actionable data to enhance risk management and bolster financial stability in the banking sector.
-
+Examined financial data to identify ratios that predict bank failures, like income-to-debt and asset-to-debt ratios. Results support risk management strategies and improve financial stability.
 
 ### [Price Over Income Unveiling Key Driver of Cigarette Consumption](https://github.com/bpananalytics/bpananalytics/blob/main/Price_Over_Income_Unveiling_the_Key_Driver_of_Cigarette_Consumption.ipynb)
 
-This study investigates the impact of income, cigarette taxes, and cigarette prices on cigarette sales. By examining these economic factors, the research aims to provide valuable insights for policymakers, manufacturers, and public health advocates. Understanding how these variables influence cigarette consumption can inform effective strategies for reducing smoking rates and improving public health, highlighting the potential role of economic measures in tobacco control.
-
+Studied how income, taxes, and prices influence cigarette sales. Findings help policymakers and public health advocates create effective strategies to reduce smoking rates.
 
 
 
