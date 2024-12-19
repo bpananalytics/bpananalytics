@@ -15,6 +15,8 @@ I turn complex data into actionable insights to help businesses grow, improve op
 ### [Analysis on Reviews for 'Wicked' film](https://github.com/bpananalytics/bpananalytics/tree/main/Wicked%20Movie%20Review%20Analysis)
 Explored video reviews of the 'Wicked' film to understand audience reception. Used text analysis tools like n-grams and topic modeling to identify key themes and sentiments. Findings helped uncover trends in positive and negative feedback and reviewer biases.
 
+### [Identifying Customer Profile](https://github.com/bpananalytics/bpananalytics/blob/main/Customer_Demographics.ipynb)
+Identified customer profile for an operating small business. Results establish key features including timing of marketing campaign as a well as customer age and gender profile. Key information may be used to leverage more effective marketing strategies. 
 
 ### [Fake News Detection with Machine Learning and Text Analytics](https://github.com/bpananalytics/bpananalytics/tree/main/Fake%20News%20Analysis)
 Built a system to detect fake news by analyzing patterns in text using machine learning. Key outcomes include identifying misinformation effectively and demonstrating expertise in text processing and classification techniques.
