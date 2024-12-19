@@ -8,7 +8,7 @@ I turn complex data into actionable insights to help businesses grow, improve op
 
 ### Projects
 
-The following are ordered by date and include a mix of personal and professional projects.
+The following list is arranged chronologically, showcasing a blend of personal and professional projects.
 
 ---
 ### [Analysis on Reviews for 'Wicked' film](https://github.com/bpananalytics/bpananalytics/tree/main/Wicked%20Movie%20Review%20Analysis)
