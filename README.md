@@ -11,6 +11,8 @@ I turn complex data into actionable insights to help businesses grow, improve op
 
 ### Projects
 
+The following are ordered by date and include a mix of personal and professional projects.
+
 ---
 ### [Analysis on Reviews for 'Wicked' film](https://github.com/bpananalytics/bpananalytics/tree/main/Wicked%20Movie%20Review%20Analysis)
 Explored video reviews of the 'Wicked' film to understand audience reception. Used text analysis tools like n-grams and topic modeling to identify key themes and sentiments. Findings helped uncover trends in positive and negative feedback and reviewer biases.
