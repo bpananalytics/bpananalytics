@@ -6,9 +6,6 @@ Businesss Analyst & Data Specialist
 
 I turn complex data into actionable insights to help businesses grow, improve operations, and engage customers effectively.
 
-* 🌍  I'm based in Oakland, California
-* ✉️  You can contact me at [bpan.analytics@gmail.com](mailto:bpan.analytics@gmail.com)
-
 ### Projects
 
 The following are ordered by date and include a mix of personal and professional projects.
