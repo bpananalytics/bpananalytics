@@ -3,12 +3,12 @@ BRIAN PAN
 
 Businesss Analyst & Data Specialist
 ----------------------------------
+"I turn complex data into actionable insights to help businesses grow, improve operations, and engage customers effectively."
 
-I turn complex data into actionable insights to help businesses grow, improve operations, and engage customers effectively.
 
 ### Projects
 
-The following list is arranged chronologically, showcasing a blend of personal and professional projects.
+##### The following list of projects are arranged chronologically, showcasing a blend of personal and professional projects.
 
 ---
 ### [Analysis on Reviews for 'Wicked' film](https://github.com/bpananalytics/bpananalytics/tree/main/Wicked%20Movie%20Review%20Analysis)
