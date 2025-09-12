@@ -11,6 +11,11 @@ Businesss Analyst & Data Specialist
 ##### The following list of projects are arranged chronologically, showcasing a blend of personal and professional projects.
 
 ---
+
+### [Campaign Analysis for BCG](https://github.com/bpananalytics/bpananalytics/tree/main/BCG%20Campaign)
+Used pivot charts and slicer are used in Excel to create infographics for marketing campaign success. Findings are used to provide company better sense of direction to where to invest more fundings to attract more customer and grow customer base. 
+
+
 ### [Analysis on Reviews for 'Wicked' film](https://github.com/bpananalytics/bpananalytics/tree/main/Wicked%20Movie%20Review%20Analysis)
 Explored video reviews of the 'Wicked' film to understand audience reception. Used text analysis tools like n-grams and topic modeling to identify key themes and sentiments. Findings helped uncover trends in positive and negative feedback and reviewer biases.
 
