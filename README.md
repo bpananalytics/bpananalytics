@@ -13,7 +13,7 @@ Businesss Analyst & Data Specialist
 ---
 
 ### [Campaign Analysis for BCG](https://github.com/bpananalytics/bpananalytics/tree/main/BCG%20Campaign)
-Used pivot charts and slicer are used in Excel to create infographics for marketing campaign success. Findings are used to provide company better sense of direction to where to invest more fundings to attract more customer and grow customer base. 
+Created pivot tables with slicer in Excel to produce infographics for marketing campaign success. Findings are used to provide company better sense of direction to where to invest more fundings to attract more customer and grow customer base. 
 
 
 ### [Analysis on Reviews for 'Wicked' film](https://github.com/bpananalytics/bpananalytics/tree/main/Wicked%20Movie%20Review%20Analysis)
