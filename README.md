@@ -11,7 +11,7 @@ Businesss Analyst & Data Specialist
 ##### The following list of projects are arranged chronologically, showcasing a blend of personal and professional projects.
 
 ---
-### [HR Dashboard for Analytics](https://github.com/bpananalytics/bpananalytics/blob/main/HR_Dashboard/HR_project.ipynb](https://github.com/bpananalytics/bpananalytics/tree/main/HR_Dashboard)
+### [HR Dashboard for Analytics](https://github.com/bpananalytics/bpananalytics/tree/main/HR_Dashboard)
 Created an HR Dashboard including generating reports on top compensation, HR spending by departments, hiring trends, etc. Data may be used to boost HR productivity including budget allocation, resource assessment, work-modality optimization, as well as company growth projections. 
 
 
