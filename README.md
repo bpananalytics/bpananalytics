@@ -3,7 +3,6 @@ BRIAN PAN
 
 Businesss Analyst & Data Specialist
 ----------------------------------
-"I turn complex data into actionable insights to help businesses grow, improve operations, and engage customers effectively."
 
 
 ### Projects
