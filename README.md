@@ -44,16 +44,6 @@ Extract insights from TikTok videos, focusing on viewer reactions and content tr
 
 Analyzed European cereal production data to identify financial risks and market opportunities. Discovered cash flow issues and geographic sales limitations, providing strategic recommendations for growth in 2024.
 
-### [Identifying Critical Financial Ratios for Bank Failures](https://github.com/bpananalytics/bpananalytics/blob/main/Critical_Insights_Identifying_Crucial_Financial_Ratios_for_Predicting_Bank_Failures.ipynb)
-
-Examined financial data to identify ratios that predict bank failures, like income-to-debt and asset-to-debt ratios. Results support risk management strategies and improve financial stability.
-
-### [Price Over Income Unveiling Key Driver of Cigarette Consumption](https://github.com/bpananalytics/bpananalytics/blob/main/Price_Over_Income_Unveiling_the_Key_Driver_of_Cigarette_Consumption.ipynb)
-
-Studied how income, taxes, and prices influence cigarette sales. Findings help policymakers and public health advocates create effective strategies to reduce smoking rates.
-
-
-
 ### Skills
 
 
