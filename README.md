@@ -10,6 +10,9 @@ Businesss Analyst & Data Specialist
 ##### The following list of projects are arranged chronologically, showcasing a blend of personal and professional projects.
 
 ---
+### [Donor Database Cleaning and Reports](https://github.com/bpananalytics/bpananalytics/tree/main/Donor%20DB)
+Cleaned and standardized a raw NGO donor database by removing faulty entries and reformatting phone numbers. Generated two key reports: a Data Integrity Report to flag incomplete donor contacts for validation, and a Strategic Outreach Report identifying high-probability donors for re-engagement campaigns.
+
 ### [HR Dashboard for Analytics](https://github.com/bpananalytics/bpananalytics/tree/main/HR_Dashboard)
 Created an HR Dashboard including generating reports on top compensation, HR spending by departments, hiring trends, etc. Data may be used to boost HR productivity including budget allocation, resource assessment, work-modality optimization, as well as company growth projections. 
 
