@@ -10,6 +10,10 @@ Businesss Analyst & Data Specialist
 ##### The following list of projects are arranged chronologically, showcasing a blend of personal and professional projects.
 
 ---
+### [Survey Analysis for Ceramics Studio](https://github.com/bpananalytics/bpananalytics/tree/main/Ceramics%20Survey)
+Analyzed survey results for a ceramics studio considering to promote new offerings and classes to its programs. Participants are asked querying data regarding interests, motivations, program reception, and skill level, with chi-squared test used to evaluate any significance for customer segmentation. Textual feedback is analyzed through various methods including wordcloud, nltk, and n-grams. 
+
+
 ### [Donor Database Cleaning and Reports](https://github.com/bpananalytics/bpananalytics/tree/main/Donor%20DB)
 Cleaned and standardized a raw NGO donor database by removing faulty entries and reformatting phone numbers. Generated two key reports: a Data Integrity Report to flag incomplete donor contacts for validation, and a Strategic Outreach Report identifying high-probability donors for re-engagement campaigns.
 
