@@ -9,7 +9,7 @@ Businesss Analyst & Data Specialist
 
 ##### The following list of projects are arranged chronologically, showcasing a blend of personal and professional projects.
 
-### Variance Analysis of Coca Cola
+### [Variance Analysis of Coca Cola](https://github.com/bpananalytics/bpananalytics/blob/main/Variance%20Analysis/Coca%20Cola.xlsx)
 Drawing from financial data obtained from SEC filings on EDGAR, performed a variance analysis on the company finances to assess changes in revenue, expenses, and profitability. Identified signifant performance changes in year-to-year analysis, with visual assessment presented in Excel. 
 
 ---
