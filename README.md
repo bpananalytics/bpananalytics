@@ -9,6 +9,9 @@ Businesss Analyst & Data Specialist
 
 ##### The following list of projects are arranged chronologically, showcasing a blend of personal and professional projects.
 
+### Variance Analysis of Coca Cola
+Drawing from financial data obtained from SEC filings on EDGAR, performed a variance analysis on the company finances to assess changes in revenue, expenses, and profitability. Identified signifant performance changes in year-to-year analysis, with visual assessment presented in Excel. 
+
 ---
 ### [Survey Analysis for Ceramics Studio](https://github.com/bpananalytics/bpananalytics/tree/main/Ceramics%20Survey)
 Analyzed survey results for a ceramics studio considering to promote new offerings and classes to its programs. Participants are asked querying data regarding interests, motivations, program reception, and skill level, with chi-squared test used to evaluate any significance for customer segmentation. Textual feedback is analyzed through various methods including wordcloud, nltk, and n-grams. 
